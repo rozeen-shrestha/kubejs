@@ -1,0 +1,302 @@
+{
+	"1": {
+		"x": 258.5,
+		"y": 71,
+		"z": -147.5,
+		"world": "minecraft:overworld"
+	},
+	"2": {
+		"x": 264.5,
+		"y": 71,
+		"z": -146.5,
+		"world": "minecraft:overworld"
+	},
+	"3": {
+		"x": 270.5,
+		"y": 71,
+		"z": -145.5,
+		"world": "minecraft:overworld"
+	},
+	"4": {
+		"x": 276.5,
+		"y": 71,
+		"z": -142.5,
+		"world": "minecraft:overworld"
+	},
+	"5": {
+		"x": 281.5,
+		"y": 71,
+		"z": -139.5,
+		"world": "minecraft:overworld"
+	},
+	"6": {
+		"x": 286.5,
+		"y": 71,
+		"z": -136.5,
+		"world": "minecraft:overworld"
+	},
+	"7": {
+		"x": 291.5,
+		"y": 71,
+		"z": -131.5,
+		"world": "minecraft:overworld"
+	},
+	"8": {
+		"x": 295.5,
+		"y": 71,
+		"z": -127.5,
+		"world": "minecraft:overworld"
+	},
+	"9": {
+		"x": 298.5,
+		"y": 71,
+		"z": -121.5,
+		"world": "minecraft:overworld"
+	},
+	"10": {
+		"x": 301.5,
+		"y": 71,
+		"z": -116.5,
+		"world": "minecraft:overworld"
+	},
+	"11": {
+		"x": 302.5,
+		"y": 71,
+		"z": -110.5,
+		"world": "minecraft:overworld"
+	},
+	"12": {
+		"x": 304.5,
+		"y": 71,
+		"z": -104.5,
+		"world": "minecraft:overworld"
+	},
+	"13": {
+		"x": 304.5,
+		"y": 71,
+		"z": -97.5,
+		"world": "minecraft:overworld"
+	},
+	"14": {
+		"x": 304.5,
+		"y": 71,
+		"z": -91.5,
+		"world": "minecraft:overworld"
+	},
+	"15": {
+		"x": 302.5,
+		"y": 71,
+		"z": -85.5,
+		"world": "minecraft:overworld"
+	},
+	"16": {
+		"x": 301.5,
+		"y": 71,
+		"z": -79.5,
+		"world": "minecraft:overworld"
+	},
+	"17": {
+		"x": 298.5,
+		"y": 71,
+		"z": -74.5,
+		"world": "minecraft:overworld"
+	},
+	"18": {
+		"x": 295.5,
+		"y": 71,
+		"z": -68.5,
+		"world": "minecraft:overworld"
+	},
+	"19": {
+		"x": 291.5,
+		"y": 71,
+		"z": -64.5,
+		"world": "minecraft:overworld"
+	},
+	"20": {
+		"x": 286.5,
+		"y": 71,
+		"z": -59.5,
+		"world": "minecraft:overworld"
+	},
+	"21": {
+		"x": 281.5,
+		"y": 71,
+		"z": -56.5,
+		"world": "minecraft:overworld"
+	},
+	"22": {
+		"x": 276.5,
+		"y": 71,
+		"z": -53.5,
+		"world": "minecraft:overworld"
+	},
+	"23": {
+		"x": 270.5,
+		"y": 71,
+		"z": -50.5,
+		"world": "minecraft:overworld"
+	},
+	"24": {
+		"x": 264.5,
+		"y": 71,
+		"z": -49.5,
+		"world": "minecraft:overworld"
+	},
+	"25": {
+		"x": 258.5,
+		"y": 71,
+		"z": -48.5,
+		"world": "minecraft:overworld"
+	},
+	"26": {
+		"x": 251.5,
+		"y": 71,
+		"z": -48.5,
+		"world": "minecraft:overworld"
+	},
+	"27": {
+		"x": 245.5,
+		"y": 71,
+		"z": -49.5,
+		"world": "minecraft:overworld"
+	},
+	"28": {
+		"x": 239.5,
+		"y": 71,
+		"z": -50.5,
+		"world": "minecraft:overworld"
+	},
+	"29": {
+		"x": 233.5,
+		"y": 71,
+		"z": -53.5,
+		"world": "minecraft:overworld"
+	},
+	"30": {
+		"x": 228.5,
+		"y": 71,
+		"z": -56.5,
+		"world": "minecraft:overworld"
+	},
+	"31": {
+		"x": 223.5,
+		"y": 71,
+		"z": -59.5,
+		"world": "minecraft:overworld"
+	},
+	"32": {
+		"x": 218.5,
+		"y": 71,
+		"z": -64.5,
+		"world": "minecraft:overworld"
+	},
+	"33": {
+		"x": 214.5,
+		"y": 71,
+		"z": -68.5,
+		"world": "minecraft:overworld"
+	},
+	"34": {
+		"x": 211.5,
+		"y": 71,
+		"z": -74.5,
+		"world": "minecraft:overworld"
+	},
+	"35": {
+		"x": 208.5,
+		"y": 71,
+		"z": -79.5,
+		"world": "minecraft:overworld"
+	},
+	"36": {
+		"x": 207.5,
+		"y": 71,
+		"z": -85.5,
+		"world": "minecraft:overworld"
+	},
+	"37": {
+		"x": 205.5,
+		"y": 71,
+		"z": -91.5,
+		"world": "minecraft:overworld"
+	},
+	"38": {
+		"x": 205.5,
+		"y": 71,
+		"z": -97.5,
+		"world": "minecraft:overworld"
+	},
+	"39": {
+		"x": 205.5,
+		"y": 71,
+		"z": -104.5,
+		"world": "minecraft:overworld"
+	},
+	"40": {
+		"x": 207.5,
+		"y": 71,
+		"z": -110.5,
+		"world": "minecraft:overworld"
+	},
+	"41": {
+		"x": 208.5,
+		"y": 71,
+		"z": -116.5,
+		"world": "minecraft:overworld"
+	},
+	"42": {
+		"x": 211.5,
+		"y": 71,
+		"z": -121.5,
+		"world": "minecraft:overworld"
+	},
+	"43": {
+		"x": 214.5,
+		"y": 71,
+		"z": -127.5,
+		"world": "minecraft:overworld"
+	},
+	"44": {
+		"x": 218.5,
+		"y": 71,
+		"z": -131.5,
+		"world": "minecraft:overworld"
+	},
+	"45": {
+		"x": 223.5,
+		"y": 71,
+		"z": -136.5,
+		"world": "minecraft:overworld"
+	},
+	"46": {
+		"x": 228.5,
+		"y": 71,
+		"z": -139.5,
+		"world": "minecraft:overworld"
+	},
+	"47": {
+		"x": 233.5,
+		"y": 71,
+		"z": -142.5,
+		"world": "minecraft:overworld"
+	},
+	"48": {
+		"x": 239.5,
+		"y": 71,
+		"z": -145.5,
+		"world": "minecraft:overworld"
+	},
+	"49": {
+		"x": 245.5,
+		"y": 71,
+		"z": -146.5,
+		"world": "minecraft:overworld"
+	},
+	"50": {
+		"x": 251.5,
+		"y": 71,
+		"z": -147.5,
+		"world": "minecraft:overworld"
+	}
+}
